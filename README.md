@@ -50,6 +50,11 @@ Actualmente trabajo como **Analista de Datos** y **Consultora en Calidad Institu
 - Estadística aplicada a la investigación · Centro Redes
 
 ---
+## 📚 Proyectos en el repositorio
+- 🔹 [Dashboard_WorkAdventure](https://github.com/pazrepositorio-ui/Dashboard_WorkAdventure)
+- 🔹 [Dashboard_Analisis_Crediticio_CH](https://github.com/pazrepositorio-ui/Dashboard_Analisis_Crediticio_CH)
+- 🔹 [Dashboard_Analisis_Covid_19](https://github.com/pazrepositorio-ui/Dashboard_Analisis_Covid_19)
+
 
 ## 🌐 Contacto y redes
 
