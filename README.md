@@ -23,14 +23,31 @@ Actualmente trabajo como **Analista de Datos** y **Consultora en Calidad Institu
 ---
 
 ## 🛠️ Tecnologías y herramientas
+<p align="center">
+<!-- Lenguajes -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-- **Lenguajes:** Python · SQL  
-- **Librerías:** Pandas · NumPy · Matplotlib · Seaborn  
-- **Visualización y BI:** Power BI · Excel avanzado  
-- **Bases de datos:** SQL Server · MySQL  
-- **Otros:** SPSS · SAP · Plataformas virtuales educativas
+<!-- Data Analysis -->
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 
----
+<!-- Version Control -->
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+<!-- Otros -->
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+
+<!-- Adobe -->
+<img src="https://img.shields.io/badge/Adobe%20Acrobat-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+</p>
+
+## 🎯 Next Goal  
+
+- 🌐 Aprender *Google Cloud Platform (BigQuery, Cloud Functions)* 👉 Integración de flujos de datos y automatización en proyectos de análisis de datos.
 
 ## 🎓 Formación académica
 
@@ -58,11 +75,18 @@ Actualmente trabajo como **Analista de Datos** y **Consultora en Calidad Institu
 
 ## 🌐 Contacto y redes
 
-- 📧 pazrepositorio@gmail.com  
-- 🌍 [LinkedIn](https://www.linkedin.com/in/pazcamino)  
-- 💼 [GitHub](https://github.com/pazcaminoDA)  
-- 📸 [Instagram](https://www.instagram.com/pazcamino)
-
----
+<p align="left">
+  <a href="https://www.linkedin.com/in/pazcamino" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/pazcaminoDA" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/pazcamino" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:pazrepositorio@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
 _Gracias por visitar mi perfil. Estoy abierta a oportunidades para seguir creando valor a través del análisis de datos y la mejora continua._
